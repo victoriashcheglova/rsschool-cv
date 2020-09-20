@@ -1,0 +1,20 @@
+      .inner {
+        width: 800px;
+        margin: auto;
+      }
+      h1 {
+        font-size: 24px;
+        color: cadetblue;
+        text-align: left;
+      }
+      h2 {
+        font-size: 20px;
+        color: cadetblue;
+        text-align: left;
+        text-decoration: underline cadetblue;
+      }
+      p {
+        font-size: 18px;
+        color: black;
+        text-align: left;
+      } 
